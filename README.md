@@ -17,7 +17,7 @@
 - etc...
 
 ## 💻 Current projects
-- 
+- [olx-scraper](https://github.com/GaleDetail/olx-scraper)
 
 
 ## 📚 Learning
