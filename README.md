@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Ukraine</h3>
 
 ## 💬 Ask me about
-- Backend web development (Java, C#, PHP)
+- Backend web development (Go, Java, C#, PHP)
 - Docker
 - Design Patterns
 - Gardening (Avacado enthusiast :evergreen_tree:)
